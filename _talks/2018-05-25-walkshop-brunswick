@@ -10,4 +10,4 @@ location: "Technische Universität Braunschweig, Germany"
 
 I presented our
 orthogonalization procedure for fermion k-body operators. The slides can be
-found [here]({{ 'files/walkshop2018-slides' | relative_url }}).
+found [here]({{ 'files/walkshop2018-slides.pdf' | relative_url }}).
