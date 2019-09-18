@@ -9,7 +9,7 @@ location: "Institute for Mathematical Sciences, National University of Singapore
 ---
 
 This talk was presented during a workshop on DFT for many particle systems and
-its applications. It is based on the [talk]({{ 'talks/2018-07-23-icmp-2018/)' |
+its applications. It is based on the [talk]({{ 'talks/2018-07-23-icmp-2018/' |
 relative_url }}) I gave at the ICMP'18 in Montréal but focuses on the geometric
 interpretation of the representability framework I use.
 
